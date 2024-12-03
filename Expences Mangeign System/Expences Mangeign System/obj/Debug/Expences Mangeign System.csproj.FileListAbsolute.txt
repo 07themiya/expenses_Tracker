@@ -1,0 +1,67 @@
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Expences Mangeign System.exe.config
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Expences Mangeign System.exe
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Expences Mangeign System.pdb
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Google.Apis.Auth.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Google.Apis.Core.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Google.Apis.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Newtonsoft.Json.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Buffers.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.CodeDom.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.IO.Pipelines.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Memory.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Numerics.Vectors.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Text.Encodings.Web.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Text.Json.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.ValueTuple.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Google.Apis.pdb
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Google.Apis.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Google.Apis.Auth.pdb
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Google.Apis.Auth.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Google.Apis.Core.pdb
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Google.Apis.Core.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Newtonsoft.Json.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Buffers.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.CodeDom.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.IO.Pipelines.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Memory.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Numerics.Vectors.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Text.Encodings.Web.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Text.Json.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.ValueTuple.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences Mangeign System.csproj.AssemblyReference.cache
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences_Mangeign_System.Form1.resources
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences_Mangeign_System.Form2.resources
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences_Mangeign_System.Form3.resources
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences_Mangeign_System.Form4.resources
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences_Mangeign_System.Form5.resources
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences_Mangeign_System.Form6.resources
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences_Mangeign_System.Properties.Resources.resources
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences Mangeign System.csproj.GenerateResource.cache
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences Mangeign System.csproj.CoreCompileInputs.cache
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences.18F734BC.Up2Date
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences Mangeign System.exe
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences Mangeign System.pdb
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Firebase.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\LiteDB.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Reactive.Core.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Reactive.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Reactive.Interfaces.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Reactive.Linq.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Firebase.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\LiteDB.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Reactive.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Reactive.Core.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Reactive.Interfaces.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Reactive.Linq.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Expences Mangeign System.exe.manifest
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\bin\Debug\Expences Mangeign System.application
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences Mangeign System.exe.manifest
+D:\Education\4-1\Practical for Advanced Software Engineering\Expences_Manage_System\Expences Mangeign System\Expences Mangeign System\obj\Debug\Expences Mangeign System.application

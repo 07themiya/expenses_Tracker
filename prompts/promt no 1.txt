@@ -1,0 +1,31 @@
+im designing an Expense tracking software using Visual code 2022. right now i have design the all the user interfaces. i used windows forms with ".NET Framwork". this are the tasks happening in the  forms,
+1st: Login
+2nd: Register
+3rd: Getting User Mounthly income
+4th: Getting User Expences
+5th: showing all the expences in a report
+6th: settings
+
+i need to connect this to a Firebase database. using that i need user authentication and all the CRUD operation. 
+
+this are the explanations of the forms,
+
+1st: Login
+2 text boxes have in this form and user enter the user name and the password and the there are 2 buttons 
+"Login" and "Reset". click the login button user will navigate to the "form3". if user click reset button 
+the 2 text boxes will be empty. lastly there is a label for create a new account. if user click that one user will navigate to the form 2.
+
+2nd: Register
+this one have 5 text boxes collection users "First Name", "Last Name", "Email", "Password" and "Confirm Password". and there is a 2 buttons for "Register" and "Reset". click the register user will registed and navigate to the form1. click the reset button all the text boxes are will be empty. lastly there is a label for login if user click that user will navigate to the form1.
+
+3rd: Getting User Mounthly income
+this one have one text box and one button. user will add there monthly income and when user click the button the data will save in the database and user will move to the form4. 
+
+4th: Getting User Expences
+this one have one Combobox (drop down menu), one text box and 3 buttons. user will select the expence catogory using the combobox and enter the amount in the text box.
+3 buttons are "View", "save" and "Add". if the user click the add button a new expence entering line (a combobox and textbox) will appear. if user click the save button the enterd data will save in the database. and use click the view button user will navigate to the form5.
+
+5th: showing all the expences in a report
+in this one inside of a label user will get a report of all the expences of the mounth. 
+
+6th: settings 
